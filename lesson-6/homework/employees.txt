@@ -1,0 +1,5 @@
+1001, John Doe, Software Engineer, 75000
+1002, John Doe, Software Engineer, 75000
+1004, John Doe, Software Engineer, 75000
+1005, John Doe, Software Engineer, 75000
+1006, Kakashi, Ninja, 10000

@@ -1,0 +1,12 @@
+Total words: 16
+Top 9 words:
+file - 3
+is - 3
+this - 2
+a - 2
+for - 1
+testing - 1
+purposes - 1
+it - 1
+simple - 1
+test - 1
