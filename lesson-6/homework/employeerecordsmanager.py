@@ -10,7 +10,7 @@ def createFile(filename="employees.txt"):
         file = open(filename, mode='w')
         # file.write('banana')
         file.close()
-    except IOError:
+    except Exception:
         print('Error')
 # createFile()
 
@@ -24,8 +24,9 @@ def appendNewEmployee(employeeID,name,position,salary):
         # employeeRecord+=name+
         file.write(employeeRecord)
         file.close()
-    except IOError:
+    except Exception:
         print("There was an error with working on file!")
+
 def viewAll():
     global filename
     try:
