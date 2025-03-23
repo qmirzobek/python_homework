@@ -1,7 +1,12 @@
 import requests
+import os
 import random
+from dotenv import load_dotenv
 
-API_KEY = "7dc334970071e3fc68e7ff1fc209a0a4" 
+# Load environment variables
+load_dotenv()
+
+API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3"
 
 def get_genre_id(genre_name):
