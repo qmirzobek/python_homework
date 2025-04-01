@@ -1,7 +1,0 @@
-
-1002, Saparov, teacher, 2000
-1003, kakashi, k, 200
-1005, lala, student, 3400
-1006, allala, alla, 200
-1007, Kakshi, student, 4500
-1001,aksk,sks,skks
